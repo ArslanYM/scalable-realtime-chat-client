@@ -1,1 +1,0 @@
-# scalable-realtime-chat-client
